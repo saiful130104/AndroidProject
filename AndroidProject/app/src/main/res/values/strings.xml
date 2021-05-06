@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="splash_text">Calculate your Age and check a year is Leap year or not</string>
+    <string name="welcome_text">Welcome to the Age Calculator and Leap Year detector. </string>
+    <string name="move_age_screen_btn">Age Calculator</string>
+    <string name="move_leap_screen_btn">Detect Leap year</string>
+    <string name="not_completed_txt">Coming soon!!!</string>
+    <string name="birth_date_txt">Date of Birth : </string>
+    <string name="current_date_txt">Age at the Date of : </string>
+    <string name="select_txt">Select Date</string>
+    <string name="year_select_txt">Please Input Year</string>
+</resources>
